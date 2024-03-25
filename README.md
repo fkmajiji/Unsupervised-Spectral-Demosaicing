@@ -17,7 +17,7 @@ The code is implemented using Pytorch 1.7.0.
 #### Synthetic dataset
 There are two synthetic datasets used in the paper: ICVL and NTIRE.
 
-The 25-band ICVL dataset is spectrally sampled from the original dataset using the spectral response functions provided by the IMEC manufacturer, which  is available at [here](https://drive.google.com/drive/folders/1zTyM5pDkrbMa6c7QjNiBfaCGLnfkRkYc?usp=drive_link). Please download and extract the dataset before proceeding.
+The 25-band ICVL dataset is spectrally sampled from the original dataset using the spectral response functions provided by the IMEC manufacturer, which  is available at [here](https://drive.google.com/drive/folders/1zTyM5pDkrbMa6c7QjNiBfaCGLnfkRkYc?usp=drive_link). Please download and extract the dataset before proceeding. The detailed sampling function is available at [here](https://github.com/fkmajiji/Spectral-Image-Sampling)
 
 The 16-band NTIRE dataset is provided by NTIRE’s Spectral Demosaicing Challenge， which is available at [here](https://drive.google.com/file/d/1ZHAsmrGgF1P_GbNib4OZEleBhVPpmn5s/view) and [here](https://drive.google.com/file/d/16jltk-q3VTEfCEWIwy4z6KNBy0daUoQ_/view)
 
