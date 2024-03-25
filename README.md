@@ -19,11 +19,11 @@ There are two synthetic datasets used in the paper: ICVL and NTIRE.
 
 The 25-band ICVL dataset is spectrally sampled from the original dataset using the spectral response functions provided by the IMEC manufacturer, which  is available at [here](https://drive.google.com/drive/folders/1zTyM5pDkrbMa6c7QjNiBfaCGLnfkRkYc?usp=drive_link). Please download and extract the dataset before proceeding.
 
-The 16-band NTIRE dataset is provided by NTIRE’s Spectral Demosaicing Challenge， which is available at [https://drive.google.com/file/d/1ZHAsmrGgF1P_GbNib4OZEleBhVPpmn5s/view] and [https://drive.google.com/file/d/16jltk-q3VTEfCEWIwy4z6KNBy0daUoQ_/view]
+The 16-band NTIRE dataset is provided by NTIRE’s Spectral Demosaicing Challenge， which is available at [here](https://drive.google.com/file/d/1ZHAsmrGgF1P_GbNib4OZEleBhVPpmn5s/view) and [here](https://drive.google.com/file/d/16jltk-q3VTEfCEWIwy4z6KNBy0daUoQ_/view)
 
 #### Real-world dataset: Mosaic25
 We released one real-world 25-band mosaic image dataset for benchmarking purposes, which contains various 
-objects, illuminations, and materials. It is available at [https://drive.google.com/drive/folders/1v1eWW0GJqxw734JJEvxneYDgOpch9Lm4?usp=drive_link]. There are two folders in the test folder. The ‘paper used’ is the 17 images used in the experimental part of the article, and the ‘supplemental’ folder is the images we added later. 
+objects, illuminations, and materials. It is available at [here](https://drive.google.com/drive/folders/1v1eWW0GJqxw734JJEvxneYDgOpch9Lm4?usp=drive_link). There are two folders in the test folder. The ‘paper used’ is the 17 images used in the experimental part of the article, and the ‘supplemental’ folder is the images we added later. 
 
 ![image](https://github.com/fkmajiji/Unsupervised-Spectral-Demosaicing/assets/35318585/36bac75d-f702-4868-88b4-4bb93b3a4682)
 
@@ -56,7 +56,7 @@ Before evaluation, ensure to modify the following variables:
 If you find this code useful, feel free to cite our work using the following BibTeX entry:
 
 ```
-K. Feng, H. Zeng, Y. Zhao, S. G. Kong and Y. Bu, "Unsupervised Spectral Demosaicing With Lightweight Spectral Attention Networks," in IEEE Transactions on Image Processing, vol. 33, pp. 1655-1669, 2024, doi: 10.1109/TIP.2024.3364064. keywords: {Training;Correlation;Cameras;Task analysis;Hyperspectral imaging;Electronics packaging;Distortion;Spectral demosaicing;unsupervised learning;spectral imaging;spectral attention networks},
+K. Feng, H. Zeng, Y. Zhao, S. G. Kong and Y. Bu, "Unsupervised Spectral Demosaicing With Lightweight Spectral Attention Networks," in IEEE Transactions on Image Processing, vol. 33, pp. 1655-1669, 2024, doi: 10.1109/TIP.2024.3364064.
 ```
 
 ```
