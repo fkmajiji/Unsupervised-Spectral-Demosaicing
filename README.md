@@ -33,7 +33,7 @@ objects, illuminations, and materials. It is available at [here](https://drive.g
 The training script is located at `main_USD_opttrain_optsetup.py`. 
 
 ### Modifying Variables:
-Before training, please make sure to modify the following variables in `train.py`:
+Before training, please make sure to modify the following variables:
 
 - `dataset_path`: the input paths of functions 'get_training_set_opt', 'NTIREDatasetFromFolder', and 'get_real_mosaic_training_set_opt'. They are the paths to the directory containing the dataset.
 
