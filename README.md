@@ -53,7 +53,7 @@ Before evaluation, ensure to modify the following variables:
 - `for epoch_num in range(X, X, X)`: Please modify the scope of the for loop to evaluate a single model or a series of models. Please match the saved starting point and interval.
 
 ## Citation
-If you find this code useful, feel free to cite our work using the following BibTeX entry:
+If you find this code useful, feel free to cite our work using the following texts:
 
 ```
 K. Feng, H. Zeng, Y. Zhao, S. G. Kong and Y. Bu, "Unsupervised Spectral Demosaicing With Lightweight Spectral Attention Networks," in IEEE Transactions on Image Processing, vol. 33, pp. 1655-1669, 2024, doi: 10.1109/TIP.2024.3364064.
