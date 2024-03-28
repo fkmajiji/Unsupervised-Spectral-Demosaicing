@@ -23,7 +23,7 @@ The 16-band NTIRE dataset is provided by NTIRE’s Spectral Demosaicing Challeng
 
 #### Real-world dataset: Mosaic25
 We released one real-world 25-band mosaic image dataset for benchmarking purposes, which contains various 
-objects, illuminations, and materials. It is available at [here](https://drive.google.com/drive/folders/1v1eWW0GJqxw734JJEvxneYDgOpch9Lm4?usp=drive_link). There are two folders in the test folder. The ‘paper used’ is the 17 images used in the experimental part of the article, and the ‘supplemental’ folder is the images we added later. 
+objects, illuminations, and materials. It is available at [here](https://drive.google.com/drive/folders/1v1eWW0GJqxw734JJEvxneYDgOpch9Lm4?usp=sharing). There are two folders in the test folder. The ‘paper used’ is the 17 images used in the experimental part of the article, and the ‘supplemental’ folder is the images we added later. 
 
 ![image](https://github.com/fkmajiji/Unsupervised-Spectral-Demosaicing/assets/35318585/36bac75d-f702-4868-88b4-4bb93b3a4682)
 
