@@ -55,6 +55,9 @@ Before evaluation, ensure to modify the following variables:
 ### Example Checkpoints:
 We provided the model used in the paper comparison experiment. They can be downloaded from [here](https://drive.google.com/drive/folders/1YWofUItVI4Dey-YC0B19loa94yglBBg1?usp=sharing). The checkpoint of the ICVL and NTIRE dataset is a list of checkpoints, that can be used for validating SEI. The final selected checkpoint selected by SEI for ICVL is 'De_happy_model_epoch_8000.pth', for NTIRE is 'De_happy_model_epoch_297.pth'. The user can directly download them avoiding the whole checkpoints.
 
+## Comparison Methods
+I created a repo at [here](https://github.com/fkmajiji/Collection-of-Classic-Multispectral-Demosaicing-Methods) that wraps some classic spectral demosaicing methods.
+
 ## Citation
 If you find this code useful, feel free to cite our work using the following texts:
 
